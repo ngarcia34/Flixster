@@ -17,7 +17,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://github.com/ngarcia34/Flixster/blob/master/Flixster1Walkthrough.gif" width=250><br>
+<img src="https://github.com/ngarcia34/Flixster/blob/master/Flixster1Walkthrough.gif" width=250><br>  
+<img src="https://github.com/ngarcia34/Flixster/blob/master/Flixster1Walkthrough2.gif" width=250><br> 
 
 ### Notes
 I did not come across any major errors or problems while completing this app. There was just once instance where I had to uninstall the Flixster app on the android 
